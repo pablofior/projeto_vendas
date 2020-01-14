@@ -1,0 +1,5 @@
+- composer install
+- npm install
+- configurar banco e .env
+- php artisan key:generate
+- php artisan serve 
